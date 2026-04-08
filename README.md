@@ -26,7 +26,6 @@ The goal is to convert complex datasets into decision-ready insights for busines
 - Clean and business-focused UI design
 
 ---
-
 ## 🧠 Skills Demonstrated
 
 - Data Analytics
